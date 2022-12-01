@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Please enter the money amount to be calculated.");
 
         amount = input.nextDouble();
-
+        amount = (amount < 0) ? 0d : amount;
         taxRate = (amount > 1000) ? 0.08d : 0.18d;
 
         System.out.println("Amount: " + amount + "\nVAT (" + (taxRate * 100) + "%) : "
