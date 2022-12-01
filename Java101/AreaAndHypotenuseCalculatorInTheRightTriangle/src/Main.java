@@ -29,9 +29,9 @@ public class Main {
         double e1, e2, h, a, p;
 
         System.out.println("Please write the 1st edge length of the triangle. (not hypotenuse)");
-        e1 = input.nextFloat();
+        e1 = input.nextDouble();
         System.out.println("Please write the 2nd edge length of the triangle. (not hypotenuse)");
-        e2 = input.nextFloat();
+        e2 = input.nextDouble();
 
         h = Math.sqrt((e1*e1) + (e2*e2));
         p = e1 + e2 + h;
