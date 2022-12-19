@@ -79,8 +79,6 @@ public class Main {
                                 }
                             }
                         }
-
-
                     }
                     else if(select.equals("2"))
                     {
@@ -151,13 +149,6 @@ public class Main {
                 }
                 else System.out.println("Invalid entry!");
             }
-
         }
-
-
-
-
     }
-
-
 }
