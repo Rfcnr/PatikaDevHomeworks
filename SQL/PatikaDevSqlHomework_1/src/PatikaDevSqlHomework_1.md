@@ -1,4 +1,4 @@
-# [PatikaDev](https://academy.patika.dev/) SQL Course DVD Rental Sample Database Query Scenarios
+# [PatikaDev](https://academy.patika.dev/) SQL Course DVD Rental Sample Database Query Scenarios - Homework-1
 
 This repository contains SQL queries for performing various scenarios on the `dvdrental` sample database.
 
