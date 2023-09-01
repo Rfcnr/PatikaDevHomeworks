@@ -1,4 +1,4 @@
-# [PatikaDev](https://academy.patika.dev/) SQL Course DVD Rental Sample Database Query Scenarios - Homework-8
+# [PatikaDev](https://academy.patika.dev/) SQL Course `test` Sample Database Query Scenarios - Homework-8
 
 This repository contains SQL queries for performing various scenarios on the `test` sample database.
 
